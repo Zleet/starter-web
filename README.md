@@ -9,6 +9,8 @@ This example is to show different parts of the Git repository and various comman
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git training demos.
+Here is some more purpose text...
+And another wee bit of purpose text.
 
 ## Deployment
 
