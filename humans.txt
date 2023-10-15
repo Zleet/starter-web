@@ -1,3 +1,15 @@
 # humanstxt.org/
-# The humans responsible and technology colophon
+# The humans responsible & technology colophon
 
+# TEAM
+
+	Jason Taylor	jason@git.training	@awesomejt
+	
+# THANKS
+
+	All my students
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3
+	jQuery, Modernizr
