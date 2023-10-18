@@ -19,4 +19,4 @@ This is a simple web project. Deployment can be on any web server or even local 
 ## How To Contribute
 
 ## Copyright
-2023 Git Training
+2023 Git Training. All Rights Reserved.
